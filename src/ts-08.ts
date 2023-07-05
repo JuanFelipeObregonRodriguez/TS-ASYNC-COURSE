@@ -25,3 +25,4 @@ const primerServicio3 = MyService.create('servicio 3')
 console.log(primerServicio3.getName);
 const primerServicio4 = MyService.create('servicio 4')
 console.log(primerServicio4.getName);
+const primerServicio5 = MyService.create('servicio 4')
